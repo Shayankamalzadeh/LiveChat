@@ -1,0 +1,12 @@
+C:\Project\LiveChat\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Project\LiveChat\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Project\LiveChat\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Project\LiveChat\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Project\LiveChat\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Project\LiveChat\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Project\LiveChat\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Project\LiveChat\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Project\LiveChat\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Project\LiveChat\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Project\LiveChat\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Project\LiveChat\Application\obj\Debug\netcoreapp3.1\Application.pdb

@@ -1,0 +1,17 @@
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Project\LiveChat\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Project\LiveChat\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache

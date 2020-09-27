@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LiveChat</name>
+    </assembly>
+    <members>
+        <member name="M:LiveChat.Controllers.OnlineChatController.SendMessage(LiveChat.Models.SendRequestModel)">
+             <summary>
+             Send Private Message for somebody
+             </summary>
+             <param name="message">
+            This is include userId (sender)
+             </param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>
